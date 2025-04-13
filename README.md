@@ -76,4 +76,7 @@ Me chamo Christian Amós, tenho 25 anos e sou natural da Bahia. Atualmente, esto
 
 </p>
 
-![snake gif](https://github.com/ScoobyTT/ScoobyTT/output/github-contribution-grid-snake.svg)
+
+
+
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
