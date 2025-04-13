@@ -58,23 +58,25 @@ Me chamo Christian Amós, tenho 25 anos e sou natural da Bahia. Atualmente, esto
 
 ### 📊 Estatísticas
 
-<div align="center">
+<p>
   <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ScoobyTT&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-    height="180"
-    style="margin-right: 10px;"
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScoobyTT&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScoobyTT&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    height="180"
-    style="margin-left: 10px;"
-  />
-</div>
-
-
+</p>
 
 
 
 
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+minhas estatisticas estao quebrando linha
