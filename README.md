@@ -58,22 +58,17 @@ Me chamo Christian Amós, tenho 25 anos e sou natural da Bahia. Atualmente, esto
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ScoobyTT&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ScoobyTT&show_icons=true&theme=radical&locale=pt-br" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScoobyTT&layout=compact&theme=radical&locale=pt-br" height="200"/>
+    </td>
+  </tr>
+</table>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScoobyTT&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 
 
