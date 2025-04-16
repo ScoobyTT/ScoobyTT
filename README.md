@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Christian Amós
+# Christian Amós
 
 **`Desenvolvedor FullStack`**
 
