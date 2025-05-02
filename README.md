@@ -18,7 +18,7 @@ Me chamo Christian Amós, tenho 25 anos e sou natural da Bahia. Atualmente, esto
     <img 
       alt="Email" 
       title="Me envie um email" 
-      src="https://custom-icon-badges.demolab.com/badge/Email-christianamosa@gmail.com%40exemplo.com-236ad3?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://custom-icon-badges.demolab.com/badge/Email-christianamosa%40gmail.com-236ad3?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
 </p>
