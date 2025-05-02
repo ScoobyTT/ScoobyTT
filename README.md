@@ -68,7 +68,6 @@ Me chamo Christian Amós, tenho 25 anos e sou natural da Bahia. Atualmente, esto
     </td>
   </tr>
 </table>
-</table>
 
 
 
