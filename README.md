@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Christian Amós, tenho 25 anos, sou natural da Bahia e atualmente curso Sistemas de Informação na UNEB. Tenho interesse especial em bioinformática, inteligência artificial, visualização de dados e desenvolvimento web/científico.
-
+Me chamo Christian Amós, tenho 25 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas de informação.
 <p align="left">
   <a href="https://github.com/ScoobyTT" target="_blank">
     <img 
@@ -12,6 +11,9 @@ Me chamo Christian Amós, tenho 25 anos, sou natural da Bahia e atualmente curso
       src="https://img.shields.io/badge/GitHub-Perfil-236ad3?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
+</p>
+
+<p align="left">
   <a href="mailto:christianamosa@gmail.com" target="_blank">
     <img 
       alt="Email" 
@@ -21,50 +23,40 @@ Me chamo Christian Amós, tenho 25 anos, sou natural da Bahia e atualmente curso
   </a>
 </p>
 
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<div align="left">
-  <img 
-    alt="C++" 
-    title="C++"
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-  />&nbsp;&nbsp;
-  <img 
-    alt="C" 
-    title="C"
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-  />&nbsp;&nbsp;
-  <img 
-    alt="R" 
-    title="R"
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
-  />
-</div>
+<img 
+  align="left" 
+  alt="C++" 
+  title="C++"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+<img
+  align="left" 
+  alt="C" 
+  title="C"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+<img
+  align="left" 
+  alt="R" 
+  title="R"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
+/>
+<br/>
+<br/>
 
----
 
-### 💼 Experiência
-
-- Iniciação Científica voluntária na UNEB - G2BC Salvador (2025)
-- Desenvolvimento de dashboards interativos com R e Shiny
-- Projetos com C/C++ usando estruturas de dados manuais (lista, árvore)
-
----
-
-### 🎯 Interesses
-
-- Bioinformática e visualização de dados
-- Inteligência artificial e ciência de dados
-- Desenvolvimento web científico e acadêmico
-
----
-
-### 📊 Estatísticas GitHub
+### 📊 Estatísticas
 
 <table>
   <tr>
@@ -77,14 +69,22 @@ Me chamo Christian Amós, tenho 25 anos, sou natural da Bahia e atualmente curso
   </tr>
 </table>
 
----
 
-### 🧬 Projetos em Destaque
 
-- [🌎 Site BEM - UNEB (2025)](https://bem.uneb.br/)
-- [🦟 Dashboard de Dengue com R e Shiny](https://github.com/ScoobyTT/dengue-dashboard) <!-- link exemplo -->
 
----
 
-<!-- Snake animation (caso queira ativar no futuro com GitHub Actions) -->
-<!-- ![Snake animation](https://github.com/ScoobyTT/ScoobyTT/blob/output/github-contribution-grid-snake.svg) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+verifica se tem algo de errado nesse codigo
