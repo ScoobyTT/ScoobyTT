@@ -1,6 +1,6 @@
 # Christian Amós
 
-Olá! Me chamo **Christian Amós**, tenho 25 anos e sou natural da Bahia. Atualmente, estou cursando **Sistemas de Informação**, com interesse em **[Área de Interesse, ex: desenvolvimento web, ciência de dados, etc.]**.
+Olá! Me chamo **Christian Amós**, tenho 25 anos e sou natural da Bahia. Atualmente, estou cursando **Sistemas de Informação.**
 
 <p align="left">
   <a href="https://github.com/ScoobyTT" target="_blank">
