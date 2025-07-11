@@ -5,10 +5,7 @@
 Me chamo Christian Amós, tenho 25 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas Sistemas de informação.
 <p align="left">
   <a href="https://github.com/ScoobyTT" target="_blank">
-    <img 
-      alt="GitHub" 
-      title="Meu GitHub" 
-      src="https://img.shields.io/badge/GitHub-Perfil-236ad3?style=for-the-badge&logo=github&logoColor=white"
+    <
     />
   </a>
 </p>
