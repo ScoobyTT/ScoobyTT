@@ -5,8 +5,7 @@
 Me chamo Christian Amós, tenho 25 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas Sistemas de informação.
 <p align="left">
   <a href="https://github.com/ScoobyTT" target="_blank">
-    <
-    />
+    
   </a>
 </p>
 
