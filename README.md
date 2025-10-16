@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Christian Amós, tenho 25 anos e sou natural de Salvador-Bahia-Brasil. Atualmente, estou cursando Sistemas Sistemas de informação.
+Me chamo Christian Amós, tenho 25 anos e sou natural de Salvador-Bahia-Brasil. Atualmente, estou cursando Sistemas de informação.
 <p align="left">
   <a href="https://github.com/ScoobyTT" target="_blank">
     
