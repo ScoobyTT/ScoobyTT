@@ -2,10 +2,15 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Christian Amós, tenho 25 anos e sou natural de Salvador-Bahia-Brasil. Atualmente, estou cursando Sistemas de informação.
+Me chamo Christian Amós, tenho 25 anos e sou natural de Salvador-Bahia-Brasil. Atualmente, estou cursando Sistemas de Informação.
+
 <p align="left">
   <a href="https://github.com/ScoobyTT" target="_blank">
-    
+    <img 
+      alt="GitHub" 
+      title="Meu GitHub" 
+      src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
 </p>
 
@@ -18,7 +23,6 @@ Me chamo Christian Amós, tenho 25 anos e sou natural de Salvador-Bahia-Brasil. 
     />
   </a>
 </p>
-
 
 ---
 
@@ -51,39 +55,8 @@ Me chamo Christian Amós, tenho 25 anos e sou natural de Salvador-Bahia-Brasil. 
 <br/>
 <br/>
 
-name: Generate pacman animation
+---
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+### 🕹️ Pacman Contribution Graph
 
-  workflow_dispatch:
-
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
+![Pacman Animation](https://scoobytt.github.io/ScoobyTT/pacman-contribution-graph.svg)
