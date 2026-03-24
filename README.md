@@ -57,7 +57,7 @@ Me chamo Christian Amós, tenho 25 anos e sou natural de Salvador-Bahia-Brasil. 
 
 ---
 
-### 🕹️ Pacman Contribution Graph
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScoobyTT/ScoobyTT/output/pacman-contribution-graph-dark.svg">
