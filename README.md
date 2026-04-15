@@ -1,8 +1,8 @@
-# Christian Amós
-
+### Olá! Eu sou Christian Amós!
 **`Desenvolvedor FullStack`**
 
-Me chamo Christian Amós, tenho 25 anos e sou natural de Salvador-Bahia-Brasil. Atualmente, estou cursando Sistemas de Informação.
+- Estudante de Sistemas de Informação na Universidade Estadual da Bahia.
+- G2BC - Bioinformática UNEB
 
 <p align="left">
   <a href="https://github.com/ScoobyTT" target="_blank">
